@@ -9,7 +9,7 @@
 ---
 
 ## 🗂️ Project Structure
-
+```
 Nebula/
 │
 ├─ app.py               # Main Python application
@@ -17,7 +17,7 @@ Nebula/
 ├─ requirements.txt     # Dependencies
 ├─ .gitignore           # Ignored files, including datasets
 └─ README.md            # Project documentation
-
+```
 > **Note:** `creditcard.csv` dataset is excluded due to GitHub size limits (>100MB). Download separately to run experiments.
 
 ---
