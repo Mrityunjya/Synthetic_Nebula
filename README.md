@@ -10,16 +10,13 @@
 
 ## 🗂️ Project Structure
 
-E:/Nebula/
+Nebula/
 │
-├─ app.py # Main Python application
-├─ Synthesis.ipynb # Jupyter Notebook experiments
-├─ requirements.txt # Dependencies
-├─ .gitignore # Ignored files, including datasets
-└─ README.md # Project documentation
-
-yaml
-Copy code
+├─ app.py               # Main Python application
+├─ Synthesis.ipynb      # Jupyter Notebook experiments
+├─ requirements.txt     # Dependencies
+├─ .gitignore           # Ignored files, including datasets
+└─ README.md            # Project documentation
 
 > **Note:** `creditcard.csv` dataset is excluded due to GitHub size limits (>100MB). Download separately to run experiments.
 
